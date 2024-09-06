@@ -5,3 +5,4 @@ The player places light bulbs in white cells such that no 2 bulbs shine on each 
 A light bulb sends light horizontally and vertically, illuminating its entire row and column unless its light crashes into a black cell.
 Black cells are enumerated from 0-4, indicating how many bulbs must be placed adjacent to its 4 sides.
 
+This logic puzzle is also known as "LIGHT UP".
